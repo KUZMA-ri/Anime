@@ -1,8 +1,10 @@
 'use strict';
-const mainData = () => {
-    const preloader = document.querySelector('.preloder');
+// Для вкладки categories
 
-    const renderGanreList = (ganres) => {
+const categoriesData = () => {   
+    const preloader = document.querySelector('.preloder');
+    
+    const renderGanreList = (ganres) => {                                                // dropdown menu
         const dropdownBlock = document.querySelector('.header__menu .dropdown');
         dropdownBlock.innerHTML = '';
         ganres.forEach(ganre => {
@@ -12,14 +14,14 @@ const mainData = () => {
         })
     }
 
-    const renderAnimeList = (array, ganres) => {
-        const wrapper = document.querySelector('.product .col-lg-8');
+    const renderAnimeList = (array, ganres) => {                                        // список аниме
+        const wrapper = document.querySelector('.product-page .col-lg-8');
         wrapper.innerHTML = '';
 
         ganres.forEach((ganre) => {
             const productBlock = document.createElement('div');
             const listBlock = document.createElement('div');
-            const list = array.filter(item => item.ganre === ganre);
+            const list = array.filter(item => item.tags.includes(ganre));           // добавляем все аниме, в тегах которых есть значение с названием жанра
 
             listBlock.classList.add('row');
             productBlock.classList.add('mb-5');
@@ -71,13 +73,15 @@ const mainData = () => {
             wrapper.querySelectorAll('.set-bg').forEach((elem) => {
                 elem.style.backgroundImage = `url(${elem.dataset.setbg})`;
             }) 
+
         })
+        
         setTimeout(() => {
             preloader.classList.remove('active');
         }, 300);
     };
 
-    const renderTopAnime = (array) => {              // функция для вывода топ-5 видео по просмотрам
+    const renderTopAnime = (array) => {                                          // функция для вывода топ-5 видео по просмотрам
         const wrapper = document.querySelector('.filter__gallery');
         wrapper.innerHTML = '';
 
@@ -101,15 +105,23 @@ const mainData = () => {
     .then((response) => response.json())
     .then((data) => {
 
-        const ganres = new Set()
+        const ganres = new Set();
+        const ganreParams = new URLSearchParams(window.location.search).get('ganre');
         
         data.anime.forEach((item) => {
             ganres.add(item.ganre)
         })
         renderTopAnime(data.anime.sort((a,b) => b.views - a.views).slice(0,5));
-        renderAnimeList(data.anime, ganres);
+        
+        if(ganreParams) {                               // отображение одной категории
+            renderAnimeList(data.anime, [ganreParams]);
+
+        } else {
+            renderAnimeList(data.anime, ganres);
+        }
+
         renderGanreList(ganres);
     })
-};
+}
 
-mainData();
+categoriesData();
