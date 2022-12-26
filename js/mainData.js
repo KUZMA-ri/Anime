@@ -33,7 +33,7 @@ const mainData = () => {
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
                         <div class="btn__all">
-                            <a href="/categories.html?ganre=${ganre}" class="primary-btn">View All <span class="arrow_right"></span></a>
+                            <a href="./categories.html?ganre=${ganre}" class="primary-btn">View All <span class="arrow_right"></span></a>
                         </div>
                     </div>
                 </div>

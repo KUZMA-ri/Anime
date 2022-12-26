@@ -2,7 +2,7 @@
    "anime": [
       {
          "id": 0,
-         "image": "http://baza4.animevost.tv/uploads/posts/2022-03/1647186611_15.jpg",
+         "image": "./img/pic/0.jpg",
          "title": "Доктор Стоун",
          "original-title": "Dr. Stone",
          "ganre": "Приключения",
@@ -18,7 +18,7 @@
       },
       {
          "id": 1,
-         "image": "http://baza4.animevost.tv/uploads/posts/2022-07/1657481286_14.jpg",
+         "image": "./img/pic/1.jpg",
          "title": "Доктор Стоун: Рюсуй",
          "original-title": "Dr. Stone: Ryuusui",
          "ganre": "Приключения",
@@ -34,7 +34,7 @@
       },
       {
          "id": 2,
-         "image": "http://baza4.animevost.tv/uploads/posts/2018-11/05528576.jpg",
+         "image": "./img/pic/2.jpg",
          "title": "О моем перерождении в слизь",
          "original-title": "Tensei shitara Slime Datta Ken",
          "ganre": "Сёнен",
@@ -49,7 +49,7 @@
       },
       {
          "id": 3,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-12/80206783.jpg",
+         "image": "./img/pic/3.jpg",
          "title": "Дороро",
          "original-title": "Dororo",
          "ganre": "История",
@@ -65,7 +65,7 @@
       },
       {
          "id": 4,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-01/17229063.jpg",
+         "image": "./img/pic/4.jpg",
          "title": "Обещанный Неверленд",
          "original-title": "Yakusoku no Neverland",
          "ganre": "Детектив",
@@ -81,7 +81,7 @@
       },
       {
          "id": 5,
-         "image": "http://baza4.animevost.tv/uploads/posts/2017-10/71014026.jpg",
+         "image": "./img/pic/5.jpg",
          "title": "Черный клевер",
          "original-title": "Black Clover",
          "ganre": "Сёнен",
@@ -96,7 +96,7 @@
       },
       {
          "id": 6,
-         "image": "http://baza4.animevost.tv/uploads/posts/2021-09/1632259653_14.jpg",
+         "image": "./img/pic/6.jpg",
          "title": "Невеста чародея",
          "original-title": "Mahoutsukai no Yome",
          "ganre": "Фэнтези",
@@ -111,7 +111,7 @@
       },
       {
          "id": 7,
-         "image": "http://baza4.animevost.tv/uploads/posts/2017-02/62689884.jpg",
+         "image": "./img/pic/7.jpg",
          "title": "Наруто ",
          "original-title": "Naruto",
          "ganre": "Сёнен",
@@ -126,7 +126,7 @@
       },
       {
          "id": 8,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-06/29975560.jpg",
+         "image": "./img/pic/8.jpg",
          "title": "Пламенная бригада пожарных",
          "original-title": "Enen no Shouboutai",
          "ganre": "Сёнен",
@@ -141,7 +141,7 @@
       },
       {
          "id": 9,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-12/82185511.jpg",
+         "image": "./img/pic/9.jpg",
          "title": "Бездомный бог",
          "original-title": "Noragami",
          "ganre": "Приключения",
@@ -156,7 +156,7 @@
       },
       {
          "id": 10,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-12/00542380.jpg",
+         "image": "./img/pic/10.jpg",
          "title": "Игра Дарвина",
          "original-title": "Darwin's Game",
          "ganre": "Детектив",
@@ -171,7 +171,7 @@
       },
       {
          "id": 11,
-         "image": "http://baza4.animevost.tv/uploads/posts/2020-01/21771607.jpg",
+         "image": "./img/pic/11.jpg",
          "title": "Темный дворецкий",
          "original-title": "Kuroshitsuji",
          "ganre": "История",
@@ -187,7 +187,7 @@
       },
       {
          "id": 12,
-         "image": "http://baza4.animevost.tv/uploads/posts/2020-01/95108361.jpg",
+         "image": "./img/pic/12.jpg",
          "title": "Глейпнир",
          "original-title": "Gleipnir",
          "ganre": "Детектив",
@@ -202,7 +202,7 @@
       },
       {
          "id": 13,
-         "image": "http://baza4.animevost.tv/uploads/posts/2020-02/11356588.jpg",
+         "image": "./img/pic/13.jpg",
          "title": "Стальной алхимик",
          "original-title": "Fullmetal Alchemist",
          "ganre": "Приключения",
@@ -218,7 +218,7 @@
       },
       {
          "id": 14,
-         "image": "http://baza4.animevost.tv/uploads/posts/2017-04/99225371.jpg",
+         "image": "./img/pic/14.jpg",
          "title": "Атака титанов",
          "original-title": "Shingeki no Kyojin",
          "ganre": "Сёнен",
@@ -233,7 +233,7 @@
       },
       {
          "id": 15,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-08/27044507.jpg",
+         "image": "./img/pic/15.jpg",
          "title": "Ван Пис",
          "original-title": "One Piece",
          "ganre": "Приключения",
@@ -249,7 +249,7 @@
       },
       {
          "id": 16,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-08/96509012.jpg",
+         "image": "./img/pic/16.jpg",
          "title": "Тетрадь смерти",
          "original-title": "Death Note",
          "ganre": "Детектив",
@@ -264,7 +264,7 @@
       },
       {
          "id": 17,
-         "image": "http://baza4.animevost.tv/uploads/posts/2020-04/21221841.jpg",
+         "image": "./img/pic/17.jpg",
          "title": "Башня Бога",
          "original-title": "Kami no Tou",
          "ganre": "Детектив",
@@ -280,7 +280,7 @@
       },
       {
          "id": 18,
-         "image": "http://baza4.animevost.tv/uploads/posts/2022-02/1644932639_7-7.jpg",
+         "image": "./img/pic/18.jpg",
          "title": "Клинок, рассекающий демонов",
          "original-title": "Kimetsu no Yaiba",
          "ganre": "История",
@@ -296,7 +296,7 @@
       },
       {
          "id": 19,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-06/33537178.jpg",
+         "image": "./img/pic/19.jpg",
          "title": "Сага о Винланде",
          "original-title": "Vinland Saga",
          "ganre": "История",
@@ -312,7 +312,7 @@
       },
       {
          "id": 20,
-         "image": "http://baza4.animevost.tv/uploads/posts/2020-04/48614391.jpg",
+         "image": "./img/pic/20.jpg",
          "title": "Ветер крепчает",
          "original-title": "Kaze Tachinu",
          "ganre": "История",
@@ -326,7 +326,7 @@
       },
       {
          "id": 21,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-12/03091483.jpg",
+         "image": "./img/pic/21.jpg",
          "title": "Восхождение героя щита",
          "original-title": "Tate no Yuusha no Nariagari",
          "ganre": "Фэнтези",
@@ -341,7 +341,7 @@
       },
       {
          "id": 22,
-         "image": "http://baza4.animevost.tv/uploads/posts/2018-10/19648492.jpg",
+         "image": "./img/pic/22.jpg",
          "title": "Убийца гоблинов",
          "original-title": "Goblin Slayer",
          "ganre": "Фэнтези",
@@ -355,7 +355,7 @@
       },
       {
          "id": 23,
-         "image": "http://baza4.animevost.tv/uploads/posts/2018-10/06545807.jpg",
+         "image": "./img/pic/23.jpg",
          "title": "Арифурэта: Сильнейший ремесленник в мире",
          "original-title": "Arifureta Shokugyou de Sekai Saikyou",
          "ganre": "Фэнтези",
@@ -370,7 +370,7 @@
       },
       {
          "id": 24,
-         "image": "http://baza4.animevost.tv/uploads/posts/2020-12/1609264123_15.jpg",
+         "image": "./img/pic/24.jpg",
          "title": "Реинкарнация безработного",
          "original-title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
          "ganre": "Фэнтези",
@@ -385,7 +385,7 @@
       },
       {
          "id": 25,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-12/07114792.jpg",
+         "image": "./img/pic/25.jpg",
          "title": "Паразит",
          "original-title": "Kiseijuu: Sei no Kakuritsu",
          "ganre": "Фантастика",
@@ -399,7 +399,7 @@
       },
       {
          "id": 26,
-         "image": "http://baza4.animevost.tv/uploads/posts/2020-03/83465069.jpg",
+         "image": "./img/pic/26.jpg",
          "title": "Созданный в Бездне",
          "original-title": "Made in Abyss",
          "ganre": "Фантастика",
@@ -415,7 +415,7 @@
       },
       {
          "id": 27,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-06/18365620.jpg",
+         "image": "./img/pic/27.jpg",
          "title": "Мастерство копа",
          "original-title": "Cop Craft",
          "ganre": "Фантастика",
@@ -430,7 +430,7 @@
       },
       {
          "id": 28,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-12/65448485.jpg",
+         "image": "./img/pic/28.jpg",
          "title": "Смертельный укус",
          "original-title": "Killing Bites",
          "ganre": "Фантастика",
@@ -444,7 +444,7 @@
       },
       {
          "id": 29,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-04/98666821.jpg",
+         "image": "./img/pic/29.jpg",
          "title": "Небесный замок Лапута",
          "original-title": "Tenkuu no Shiro Laputa",
          "ganre": "Фантастика",
@@ -460,7 +460,7 @@
       },
       {
          "id": 30,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-10/89887153.jpg",
+         "image": "./img/pic/30.jpg",
          "title": "Аватар короля: Вершина славы",
          "original-title": "Quanzhi Gaoshou zhi Dianfeng Rongyao",
          "ganre": "Приключения",
@@ -474,7 +474,7 @@
       },
       {
          "id": 31,
-         "image": "http://baza4.animevost.tv/uploads/posts/2020-01/21771607.jpg",
+         "image": "./img/pic/31.jpg",
          "title": "Темный дворецкий",
          "original-title": "Kuroshitsuji",
          "ganre": "Сёнен",
@@ -490,7 +490,7 @@
       },
       {
          "id": 32,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-09/27297866.jpg",
+         "image": "./img/pic/32.jpg",
          "title": "Бродяга Кэнсин",
          "original-title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
          "ganre": "История",
@@ -506,7 +506,7 @@
       },
       {
          "id": 33,
-         "image": "http://baza4.animevost.tv/uploads/posts/2020-06/79391961.jpg",
+         "image": "./img/pic/33.jpg",
          "title": "Токийский гуль",
          "original-title": "Tokyo Ghoul",
          "ganre": "Детектив",
@@ -521,7 +521,7 @@
       },
       {
          "id": 34,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-06/83152870.jpg",
+         "image": "./img/pic/34.jpg",
          "title": "Ад Данте",
          "original-title": "Dante's Inferno",
          "ganre": "Фэнтези",
@@ -535,7 +535,7 @@
       },
       {
          "id": 35,
-         "image": "http://baza4.animevost.tv/uploads/posts/2019-08/24567490.jpg",
+         "image": "./img/pic/35.jpg",
          "title": "Жизнь без оружия",
          "original-title": "No Guns Life",
          "ganre": "Фантастика",
